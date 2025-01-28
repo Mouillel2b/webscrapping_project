@@ -25,3 +25,8 @@ We aimed to collect the following information for each restaurant:
 ### **2. Google Maps (Selenium & BeautifulSoup)**
 - We used **Selenium** and **bs4** to scrape data from Google Maps.
 - The data and the associated notebook are available in the `maps` folder.
+
+
+---
+
+## **App**
