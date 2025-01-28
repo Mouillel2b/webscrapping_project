@@ -13,6 +13,7 @@ We aimed to collect the following information for each restaurant:
 - **Opening Hours**: Information about the restaurant’s operating hours.
 - **Location**: The restaurant’s address or location details.
 - **Average Price**: The estimated average cost of a meal.
+- **Review**: The review from a customer to a restaurant.
 
 ---
 
